@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 61aa9ffb2bf4bc6fbb3fb56b9008da1892d45c36 cadetdelta74 <49118747-cadetdelta74@users.noreply.replit.com> 1761672663 +0000	commit (initial): Initial commit
+61aa9ffb2bf4bc6fbb3fb56b9008da1892d45c36 3da6a40994c65ed1fe154821930652e81de2fb9e cadetdelta74 <49118747-cadetdelta74@users.noreply.replit.com> 1761672859 +0000	commit: Improve filter persistence and fix display artifacts in course selector
+3da6a40994c65ed1fe154821930652e81de2fb9e caa2d67783b33874c17ca6ef9fa2f17dfacb6f97 cadetdelta74 <49118747-cadetdelta74@users.noreply.replit.com> 1761674079 +0000	commit: Improve app performance and reduce cellular data usage
+caa2d67783b33874c17ca6ef9fa2f17dfacb6f97 c5cab8be23166031c4b2b9d5da7edc71288dfb3a cadetdelta74 <49118747-cadetdelta74@users.noreply.replit.com> 1761674310 +0000	commit: Improve app performance and ensure cellular data usage is handled correctly
